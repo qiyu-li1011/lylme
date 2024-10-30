@@ -94,4 +94,4 @@ curl -L 'https://aka.caomingjun.com/lylme/install.sh' | bash
 -   原项目地址：[baisuTwo: onenav主题 (gitee.com)](https://gitee.com/baisucode/baisu-two)
 -   Fork仓库：[六零导航页(LyLme Spage)baisu主题，基于baisuTwo开发 (gitee.com)](https://gitee.com/LyLme/baisu)
 
-**...**
+**....**
